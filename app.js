@@ -18,6 +18,7 @@ function addComponentToList (item) {
 function clearList () {
   todoList.innerHTML = ""
 }
+
 function clearInput () {
   input.value = ""
 }
